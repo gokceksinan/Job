@@ -1,0 +1,40 @@
+{
+  "jobs": [
+    {
+      "id": "aac94f96-4ffa-4fbb-a137-c0ff32df7c1d",
+      "position": "marketing",
+      "company": "amazon",
+      "location": "istanbul",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": 1741345483081
+    },
+    {
+      "id": "1de70080-31e1-4ca4-84fd-0e2d66c358fb",
+      "position": "marketing",
+      "company": "hepsiburada",
+      "location": "istanbul",
+      "status": "Devam Ediyor",
+      "type": "Staj",
+      "date": 1741345720428
+    },
+    {
+      "id": "c9aa1885-3577-4dd7-95c9-ed2f03ef942d",
+      "position": "yazılım",
+      "company": "turkcell",
+      "location": "istanbul",
+      "status": "Mülakat",
+      "type": "Uzaktan",
+      "date": 1741345746550
+    },
+    {
+      "id": "01bd8ee3-dd5b-4332-a8ec-809d1da22343",
+      "position": "yazılım",
+      "company": "udemig",
+      "location": "istanbul",
+      "status": "Reddedildi",
+      "type": "Yarı Zamanlı",
+      "date": 1741345901713
+    }
+  ]
+}
